@@ -8,4 +8,4 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Thoughts:** Though I have just done an basic setup, but I have learned various theoretical things about a blog site & Angular this will help me in further work.
 
-**Link to work:** [Blog Site] (https://github.com/Vino16491/AngularBlogSite).
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite).
