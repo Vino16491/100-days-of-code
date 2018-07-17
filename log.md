@@ -13,9 +13,9 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 ### Day 1: July 17, 2018 
 
 **Today's Progress**: 
-    * learned how to deploy site online with git and netlify.
-    * Integrated project with Angular material
-    * learned about angular components, databinding and somewhat about decorators and classes
+    1. learned how to deploy site online with git and netlify.
+    2. Integrated project with Angular material
+    3. learned about angular components, databinding and somewhat about decorators and classes
 
 **Thoughts:** Angular is amazing compared to plain javascript, there are lots of things handy for development, and also with angular material, things become much comfortable.
 
