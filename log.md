@@ -12,9 +12,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 ### Day 1: July 17, 2018 
 
-**Today's Progress**: learned how to deploy site online with git and netlify. Also get to know that after each commit the site will be updated automatically as it has been synced with github
+**Today's Progress**: 
+    * learned how to deploy site online with git and netlify.
+    * Integrated project with Angular material
+    * learned about angular components, databinding and somewhat about decorators and classes
 
-**Thoughts:** It is amazing that each edit can directly be pushed to live website.
+**Thoughts:** Angular is amazing compared to plain javascript, there are lots of things handy for development, and also with angular material, things become much comfortable.
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
 
