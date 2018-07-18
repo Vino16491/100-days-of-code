@@ -21,4 +21,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
 
+### Day 2: July 18, 2018 
 
+**Today's Progress**: 
+    1. Tried several things from angular material, but failed to implement them properly, will try again tomorrow with the help of tut
+    2. used css to create a profile and notification button
+    3. Add 2 components in project for profile and blogs
+
+**Thoughts:** Thought angular material will be easy to implement, but it is not that easy, will have to work on angular components and material components basics to have a little grasp on this framework
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
