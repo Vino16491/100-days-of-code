@@ -31,3 +31,16 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Thought angular material will be easy to implement, but it is not that easy, will have to work on angular components and material components basics to have a little grasp on this framework
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+
+### Day 3: July 19, 2018 
+
+**Today's Progress**: 
+    1. Learn how to properly integrate Angular Material with angular and its schematics
+    2. used angular material toolbar for creating navigation bar
+    3. Addded 1 more component for navigation bar
+    4. Tried to Fix css issue of cards
+
+**Thoughts:** Need to work hard on front-end designing with angular material, css and bootstrap.
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
