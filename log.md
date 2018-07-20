@@ -44,3 +44,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to work hard on front-end designing with angular material, css and bootstrap.
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+### Day 4: July 20, 2018 
+
+**Today's Progress**: 
+    1. Changes done in css to set footer, pagination and navigation bar to look proper on the site
+    2. Learn about angular services, will try to implement tomorrow while developing login page
+
+**Thoughts:** Need to work more on css grid, responsiveness, styling in angular
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
