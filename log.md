@@ -54,3 +54,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to work more on css grid, responsiveness, styling in angular
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+### Day 5: July 21, 2018 
+
+**Today's Progress**: 
+    1. Angular Routing implemented successfully
+    2. Code added in login form
+
+**Thoughts:** Need to work more on css grid, responsiveness, styling in angular,
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
