@@ -60,6 +60,7 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Today's Progress**: 
     1. Angular Routing implemented successfully
     2. Code added in login form
+    3. learn about angular services, created auth service will try to implement by tomorrow
 
 **Thoughts:** Need to work more on css grid, responsiveness, styling in angular,
 
