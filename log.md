@@ -65,3 +65,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to work more on css grid, responsiveness, styling in angular,
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+### Day 6: July 22, 2018 
+
+**Today's Progress**: 
+    1. Angular service basic implemented with login form
+    2. Databinding done on login form
+    3. Added a new button on profile icon in navbar which gets activate when user is logged in
+
+**Thoughts:** Need to work more on site responsiveness, services and angular forms 
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
