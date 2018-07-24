@@ -86,3 +86,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to work more on site responsiveness, services and angular forms
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+### Day 8: July 24, 2018 
+
+**Today's Progress**: 
+    1. Very Bad Day Today, learn about flexbox but unable grasp it clearly, tried media queries that too failed
+    2. Totally tired coz of other work
+
+**Thoughts:** Need to work more on site responsiveness, services and angular forms
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
