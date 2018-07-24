@@ -92,7 +92,8 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Today's Progress**: 
     1. Very Bad Day Today, learn about flexbox but unable grasp it clearly, tried media queries that too failed
     2. Totally tired coz of other work
+    3. Started a new project using a blog link as tut to understand flexlayout and responsiveness [link](https://medium.com/letsboot/quick-start-with-angular-material-and-flex-layout-1b065aa1476c)
 
 **Thoughts:** Need to work more on site responsiveness, services and angular forms
 
-**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+**Link to work:** [Project Link](https://github.com/Vino16491/material-project)
