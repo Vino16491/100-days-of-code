@@ -97,3 +97,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to work more on site responsiveness, services and angular forms
 
 **Link to work:** [Project Link](https://github.com/Vino16491/material-project)
+
+
+### Day 9: July 25, 2018 
+
+**Today's Progress**: 
+    1. Learn About Express JS
+    2. Data binding done for express js
+    
+**Thoughts:** Need to work more on site responsiveness, services and angular forms
+
+**Link to work:** [Project Link](https://github.com/Vino16491/material-project)
