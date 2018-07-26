@@ -103,8 +103,17 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Today's Progress**: 
     1. Learn About Express JS
-    2. Data binding done for express js
+    2. Data binding done for sign up form
     
 **Thoughts:** Need to work more on site responsiveness, services and angular forms
 
 **Link to work:** [Project Link](https://github.com/Vino16491/material-project)
+
+### Day 10: July 26, 2018 
+
+**Today's Progress**: 
+    1. Configured text editor (angular-editor)
+    2. created service for driving data from add story to blog, complete implementation is pendin
+    
+**Thoughts:** Need to work more on site responsiveness, services and angular forms
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
