@@ -118,10 +118,18 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to work more on site responsiveness, services and angular forms
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
 
-### Day 11: July 26, 2018 
+### Day 11: July 27, 2018 
 
 **Today's Progress**: 
     1. Implementation done for data passing using service from story page to blog page but in a broken way
+    
+**Thoughts:** Need to work more on site responsiveness, services and angular forms
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+### Day 12: July 28, 2018 
+
+**Today's Progress**: 
+    1. working on setting up mongodb and sockets as DB for storing blog stories and authentication
     
 **Thoughts:** Need to work more on site responsiveness, services and angular forms
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
