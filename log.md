@@ -134,7 +134,7 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to work more on site responsiveness, services and angular forms
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
 
-### Day 12: July 29, 2018 
+### Day 13: July 29, 2018 
 
 **Today's Progress**:
     2. removed Jargon codes, checked all the code till now done in project
