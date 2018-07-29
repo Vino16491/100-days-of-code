@@ -133,3 +133,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
     
 **Thoughts:** Need to work more on site responsiveness, services and angular forms
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+### Day 12: July 29, 2018 
+
+**Today's Progress**:
+    2. removed Jargon codes, checked all the code till now done in project
+    1. working on setting up mongodb and sockets as DB for storing blog stories and authentication
+    
+**Thoughts:** Things are going crazy, have to do lots of work on many things
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+
