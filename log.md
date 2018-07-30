@@ -143,4 +143,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Things are going crazy, have to do lots of work on many things
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
 
+### Day 14: July 30, 2018 
 
+**Today's Progress**:
+    2. Worked on css flex layouts and media queries
+    1. resolved some media queries issue
+    
+**Thoughts:** Need to work more on CSS, angular dynamic routes and components, and much more
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
