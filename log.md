@@ -152,3 +152,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to work more on CSS, angular dynamic routes and components, and much more
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+### Day 15: July 31, 2018 
+
+**Today's Progress**:
+    1. Worked on welcome page and background videos, will be able to implement by tomorow
+    2. Also learn about angular material components in more detail
+    
+**Thoughts:** Need to work more on CSS, angular dynamic routes and components, and much more
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
