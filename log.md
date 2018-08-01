@@ -162,3 +162,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to work more on CSS, angular dynamic routes and components, and much more
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+### Day 16: August 1, 2018 
+
+**Today's Progress**:
+    1. Worked on welcome page and background videos, succesfully implemented, but need some more work so removed from live site
+    2. Again gone through angular flex-layout and angular nested routing
+    3. Got to know how to implement nested routing, and little about flex-layout
+    
+**Thoughts:** Need to work more on CSS, angular dynamic routes and components, and much more
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
