@@ -173,3 +173,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to work more on CSS, angular dynamic routes and components, and much more
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+### Day 17: August 2, 2018 
+
+**Today's Progress**:
+    1. Implemented Angualr flex-layout on sidenavigation and toolbar
+    
+**Thoughts:** Need to work more on CSS, angular dynamic routes and components, and much more
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
