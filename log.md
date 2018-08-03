@@ -182,3 +182,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to work more on CSS, angular dynamic routes and components, and much more
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+### Day 18: August 3, 2018 
+
+**Today's Progress**:
+    1. learn about rxjs subject and subscription methods
+    
+**Thoughts:** will implement an auth service based on rxjs and some dummy data
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
