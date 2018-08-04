@@ -191,3 +191,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** will implement an auth service based on rxjs and some dummy data
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+
+### Day 19: August 4, 2018 
+
+**Today's Progress**:
+    1. Learn Reactive forms and template driven forms, also got to now how badly i have implemented reactive form in my project
+    2. Implemented Rxjs Subject and subscription methods in auth service.
+    
+**Thoughts:** auth service implementation was fruitfull got to know many things, will be more amazing when connect to db
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
