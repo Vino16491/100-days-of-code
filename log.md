@@ -202,3 +202,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** auth service implementation was fruitfull got to know many things, will be more amazing when connect to db
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+
+### Day 20: August 5, 2018 
+
+**Today's Progress**:
+    1. Fixed Template and Reactive form 
+    2. implemented navigation guards on routes using authguard service
+    
+**Thoughts:** have to work on dynamic child routes
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
