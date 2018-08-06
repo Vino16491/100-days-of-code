@@ -223,4 +223,4 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** have to work on dynamic child routes, and flex layout
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
-                    [Fitness Tracker TutApp] (https://github.com/Vino16491/FitnessTracker)
+      . [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker)
