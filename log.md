@@ -213,3 +213,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** have to work on dynamic child routes
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+
+### Day 21: August 6, 2018 
+
+**Today's Progress**:
+    1. learn how to implement mat table with sorting using angular material
+    2. major time spent on identifying how to align header, body and footer on webpage
+    
+**Thoughts:** have to work on dynamic child routes, and flex layout
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+                    [Fitness Tracker (TutApp)] (https://github.com/Vino16491/FitnessTracker)
