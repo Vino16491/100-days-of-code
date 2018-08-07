@@ -224,3 +224,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
       . [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker)
+
+### Day 22: August 7, 2018 
+
+**Today's Progress**:
+    1. learn how to implement Filter and paginator on mattable
+    2. learn how to use flex Layouts to design responsive layouts
+    
+**Thoughts:** have to work on dynamic child routes, css animations
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+      . [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker)
