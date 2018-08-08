@@ -235,3 +235,15 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
       . [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker)
+      
+
+### Day 23: August 8, 2018 
+
+**Today's Progress**:
+    1. started with firebase cloudstore, created database
+    2. created a service to read data from Firebase
+    
+**Thoughts:** have to work on dynamic child routes, css animations, firebase
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
+      . [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker)
