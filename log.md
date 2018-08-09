@@ -247,3 +247,15 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). [live link](https://naughty-swartz-71b755.netlify.com/)
       . [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker)
+ 
+ ### Day 24: August 9, 2018 
+
+**Today's Progress**:
+    1. restructured the service created yesterday
+    2. Added method to add and fetch data from the firestore
+    3. worked on some css to create a progress stepper tracker
+    
+**Thoughts:** have to work on dynamic child routes, css animations, firebase
+
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+      [css Gist](https://gist.github.com/Vino16491/1a89efe8a4a341bfaa8197ebabc19f13)
