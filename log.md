@@ -259,3 +259,16 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
       [css Gist](https://gist.github.com/Vino16491/1a89efe8a4a341bfaa8197ebabc19f13)
+ 
+### Day 25: August 10, 2018 
+
+**Today's Progress**:
+    1. implemented Firebase basic authentication
+    2. created method to unsubscribe subscriptions
+    3. Created a rule on firebase for securing db operations
+    4. Bug Fixed
+    5. Worked on Css to created ripple effect
+    
+**Thoughts:** have to work on dynamic child routes, css animations, deep dive firebase rules and services
+
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
