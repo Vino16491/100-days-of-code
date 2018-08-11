@@ -272,3 +272,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** have to work on dynamic child routes, css animations, deep dive firebase rules and services
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+
+### Day 26: August 11, 2018 
+
+**Today's Progress**:
+    1. Can be consider as a CSS day,
+    2. learn about the Box Model, Styling width & height, display property, Pseudo classes & elements
+    
+**Thoughts:** giving a day to css for deep dive
+
+**Link to work:** [CSS Web Design](https://github.com/Vino16491/cssWebDesign).
