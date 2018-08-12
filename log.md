@@ -282,3 +282,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** giving a day to css for deep dive
 
 **Link to work:** [CSS Web Design](https://github.com/Vino16491/cssWebDesign).
+### Day 27: August 12, 2018 
+
+**Today's Progress**:
+    1. Back to Angular, implemented angular material snackbar and worked on code optimization and error handling
+    
+**Thoughts:** scheduled, daily css and angular practice
+
+**Link to work:** [CSS Web Design](https://github.com/Vino16491/cssWebDesign).  [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
