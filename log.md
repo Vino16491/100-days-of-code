@@ -301,3 +301,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
 
+### Day 29: August 14, 2018 
+
+**Today's Progress**:
+    1. Worked on Module Optimization by seperating modules according to their role
+    
+**Thoughts:** will do it again tomorrow the same activity, to understand more clearly.
+
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+
