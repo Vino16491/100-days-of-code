@@ -310,3 +310,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
 
+Day 30: August 15, 2018
+Today's Progress: 
+1. Worked on Routing Module Optimization by seperating modules according to their role
+2. Also work on creating lazy routes with auth guard
+
+
+Thoughts: Lazy routes are amzing it saves bandwidth
+
+Link to work: [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+
