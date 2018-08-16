@@ -320,3 +320,15 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
 
+
+### Day 31: August 16, 2018
+**Today's Progress:**
+1. Started with Ngrx State
+2. Trying to understand the concepts like reducer, actions
+3. implemented a basic state using app reducer for loading component
+
+
+**Thoughts:** Now CSS is good, still need more efforts on CSS and NGRX is something new 
+
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+
