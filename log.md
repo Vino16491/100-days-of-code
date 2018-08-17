@@ -336,6 +336,8 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 ### Day 32: August 17, 2018
 **Today's Progress:**
 1. Started Learning React, created a first basic component
+2. Worked on Reducer, created auth reducer and ui reducer
+3. ui reducer working successfully, there is some issue with auth guard while implementing auth reducer
 
 **Thoughts:** Now CSS is good, still need more efforts on CSS and NGRX is something new 
 
