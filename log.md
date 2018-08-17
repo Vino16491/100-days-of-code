@@ -332,3 +332,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
 
+
+### Day 32: August 17, 2018
+**Today's Progress:**
+1. Started Learning React, created a first basic component
+
+**Thoughts:** Now CSS is good, still need more efforts on CSS and NGRX is something new 
+
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker). [tvseries](https://github.com/Vino16491/tvseries)
