@@ -342,3 +342,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Now CSS is good, still need more efforts on CSS and NGRX is something new 
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker). [tvseries](https://github.com/Vino16491/tvseries)
+
+### Day 33: August 18, 2018
+**Today's Progress:**
+1. A Bug in auth guard fixed,
+2. Working on a hidden bug
+
+**Thoughts:** bugs teaches alot
+
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
