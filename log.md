@@ -351,3 +351,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** bugs teaches alot
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+
+### Day 34: August 19, 2018
+**Today's Progress:**
+1. Practice CSS specially on position, z-index and background theming
+2. learn React Basic components, states, and use of fetch for API request
+
+
+**Link to work:**  [tvseries](https://github.com/Vino16491/tvseries). [CSS Web Design](https://github.com/Vino16491/cssWebDesign).
