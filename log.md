@@ -359,3 +359,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 
 **Link to work:**  [tvseries](https://github.com/Vino16491/tvseries). [CSS Web Design](https://github.com/Vino16491/cssWebDesign).
+
+### Day 35: August 20, 2018
+**Today's Progress:**
+1. Working on a hidden bug
+
+**Thoughts:** there is not a single error, but the app is not working, seems bug is playing with me, but i will catch him finish this game
+
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
