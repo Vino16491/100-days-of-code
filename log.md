@@ -367,3 +367,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** there is not a single error, but the app is not working, seems bug is playing with me, but i will catch him finish this game
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+
+### Day 36: August 21, 2018
+**Today's Progress:**
+1. found the hidden bug and have fixed it.
+
+**Thoughts:** never thought that curly braces will create a issue
+
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
