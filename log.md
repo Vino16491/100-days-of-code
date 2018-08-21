@@ -371,7 +371,8 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 ### Day 36: August 21, 2018
 **Today's Progress:**
 1. found the hidden bug and have fixed it.
+2. created another reducer and actions for training module
 
-**Thoughts:** never thought that curly braces will create a issue
+**Thoughts:** never thought that curly braces will create a issue, reducers are bit complicated
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
