@@ -381,6 +381,7 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 ### Day 37: August 22, 2018
 **Today's Progress:**
 1. UI reducer implemented in training module
+2. Completed Basic React App, Learn about creating components, routing and use api to fetch data, dynamic routes
 
 **Thoughts:** deep diving in reducers to understand in detail
 
