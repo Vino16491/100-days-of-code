@@ -376,3 +376,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** never thought that curly braces will create a issue, reducers are bit complicated
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+
+
+### Day 37: August 22, 2018
+**Today's Progress:**
+1. UI reducer implemented in training module
+
+**Thoughts:** deep diving in reducers to understand in detail
+
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+
