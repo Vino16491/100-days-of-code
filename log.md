@@ -385,5 +385,5 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Thoughts:** deep diving in reducers to understand in detail
 
-**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker). [tvseries](https://github.com/Vino16491/tvseries).
 
