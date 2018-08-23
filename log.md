@@ -387,3 +387,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker). [tvseries](https://github.com/Vino16491/tvseries).
 
+### Day 38: August 23, 2018
+**Today's Progress:**
+1. Still Working on reducers
+
+**Thoughts:** deep diving in reducers to understand in detail
+
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+
