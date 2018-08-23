@@ -390,8 +390,9 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 ### Day 38: August 23, 2018
 **Today's Progress:**
 1. Still Working on reducers
+2. Deployed react app on heroku
 
 **Thoughts:** deep diving in reducers to understand in detail
 
-**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).
+**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).[tvseries](http://tvseriesreact.herokuapp.com/)
 
