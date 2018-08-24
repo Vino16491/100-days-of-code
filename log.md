@@ -401,9 +401,10 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Today's Progress:**
 1. Done with reducers, implemented in the required modules
 2. Clean up Junk, Fixed Issues, Fixed Bugs
-2. completed angularngrx app with Firebase
+3. Deployed App on Firebase
+2. completed AngularNgrx app with Firebase
 
-**Thoughts:** learned lots of things about angular Ngrx, still need more practice
+**Thoughts:** learned lots of things about angular Ngrx, still need more practice for Ngrx and Firebase Rules
 
-**Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).[tvseries](http://tvseriesreact.herokuapp.com/)
+**Link to work:** [Fitness Tracker TutApp](https://tutfitnesstracker.firebaseapp.com/login).
 
