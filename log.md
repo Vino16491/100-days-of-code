@@ -397,7 +397,7 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:** [Fitness Tracker TutApp](https://github.com/Vino16491/FitnessTracker).[tvseries](http://tvseriesreact.herokuapp.com/)
 
 
-### Day 38: August 23, 2018
+### Day 39: August 24, 2018
 **Today's Progress:**
 1. Done with reducers, implemented in the required modules
 2. Clean up Junk, Fixed Issues, Fixed Bugs
