@@ -416,5 +416,5 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Thoughts:** React is Amazing as amazing as angular
 
-**Link to work:** [ReactTutApp] (https://github.com/Vino16491/react-app-tut)
+**Link to work:** [ReactTutApp](https://github.com/Vino16491/react-app-tut)
 
