@@ -408,3 +408,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Fitness Tracker TutApp](https://tutfitnesstracker.firebaseapp.com/login).
 
+
+### Day 40: August 25, 2018
+**Today's Progress:**
+1. Done with [Tania Rascia](https://taniarascia.com/getting-started-with-react/) tutorial,
+2. Planning for my blog site completely on angular and mongodb using socket
+
+**Thoughts:** React is Amazing as amazing as angular
+
+**Link to work:** [ReactTutApp] (https://github.com/Vino16491/react-app-tut)
+
