@@ -418,3 +418,10 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [ReactTutApp](https://github.com/Vino16491/react-app-tut)
 
+### Day 41: August 26, 2018
+**Today's Progress:**
+1. Done some css work on Angular blog site
+2. Learning how to connect mongodb to blog site using mongoose on typescript
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite).
+
