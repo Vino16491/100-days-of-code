@@ -425,3 +425,9 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite).
 
+
+### Day 42: August 27, 2018
+**Today's Progress:**
+1. working on a bug on recently published angular app
+
+
