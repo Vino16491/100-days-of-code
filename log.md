@@ -429,5 +429,15 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 ### Day 42: August 27, 2018
 **Today's Progress:**
 1. working on a bug on recently published angular app
+**Link to work:** [Fitness Tracker TutApp](https://tutfitnesstracker.firebaseapp.com/login).
+
+
+### Day 43: August 28, 2018
+**Today's Progress:**
+1. working on a bug
+2. Deep Dive in Typescript
+
+**Thoughts:** Deep Dive in Typescript
+**Link to work:** [Fitness Tracker TutApp](https://tutfitnesstracker.firebaseapp.com/login).
 
 
