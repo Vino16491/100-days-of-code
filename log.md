@@ -440,4 +440,15 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Deep Dive in Typescript
 **Link to work:** [Fitness Tracker TutApp](https://tutfitnesstracker.firebaseapp.com/login).
 
+### Day 44: August 29, 2018
+**Today's Progress:**
+1. If a bug occurs, It is not necessary there is always error in code, It can be issue with packages
+2. Deleted node_modules folder than npm install everything worked smoothly
+3. Deep Dive in Typescript
+
+**Thoughts:** There can be issue with packages or cache files
+**Link to work:** [Fitness Tracker TutApp](https://tutfitnesstracker.firebaseapp.com/login).
+
+
+
 
