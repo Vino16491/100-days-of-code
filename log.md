@@ -449,6 +449,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** There can be issue with packages or cache files
 **Link to work:** [Fitness Tracker TutApp](https://tutfitnesstracker.firebaseapp.com/login).
 
+### Day 45: August 30, 2018
+**Today's Progress:**
+1. Gone through various docs of mongodb
+2. created a service to connect mongodb database, currently its broken up will fix it tomorrow
+
+**Thoughts:** Need to learn more about typescript, mongodb and app connections
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite).
+
 
 
 
