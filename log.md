@@ -457,6 +457,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Need to learn more about typescript, mongodb and app connections
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite).
 
+### Day 46: August 31, 2018
+**Today's Progress:**
+1. Gone through various articles of mongodb, typescript, ExpressJS, Angular and MEAN Stack
+2. Starting with a new project (meanvideoplayer) for making base strong
+**Thoughts:** Deep Diving in MEAN STACK again especially in Typescript and Express
+**Link to work:** [Mean Video Player](https://github.com/Vino16491/meanvideoplayer).
+
 
 
 
