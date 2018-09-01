@@ -464,6 +464,17 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** Deep Diving in MEAN STACK again especially in Typescript and Express
 **Link to work:** [Mean Video Player](https://github.com/Vino16491/meanvideoplayer).
 
+### Day 47: September 1, 2018
+**Today's Progress:**
+1. Created API request GET PUT POST DEL with Express and Mongoose
+2. Tested Api with Postman
+3. Create Simple form on Angular, will try to integrate api tomorrow
+
+**Thoughts:** Going through little but essential aspects of angular
+
+**Link to work:** [Mean Video Player](https://github.com/Vino16491/meanvideoplayer).
+
+
 
 
 
