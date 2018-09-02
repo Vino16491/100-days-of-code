@@ -476,5 +476,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 
 
+### Day 48: September 2, 2018
+**Today's Progress:**
+1. Integrated API
+**Thoughts:** Going through little but essential aspects of angular
+
+**Link to work:** [Mean Video Player](https://github.com/Vino16491/meanvideoplayer).
+
+
 
 
