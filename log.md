@@ -483,6 +483,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Mean Video Player](https://github.com/Vino16491/meanvideoplayer).
 
+### Day 49: September 3, 2018
+**Today's Progress:**
+1. Creating API to Host on Firebase Functions
+**Thoughts:** learning about cloud functions of firebase
 
+**Link to work:** [Node Firebase](https://github.com/Vino16491/NodeFirebase).
 
 
