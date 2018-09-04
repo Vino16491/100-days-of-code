@@ -486,8 +486,18 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 ### Day 49: September 3, 2018
 **Today's Progress:**
 1. Creating API to Host on Firebase Functions
+
 **Thoughts:** learning about cloud functions of firebase
 
 **Link to work:** [Node Firebase](https://github.com/Vino16491/NodeFirebase).
+
+### Day 50: September 4, 2018
+**Today's Progress:**
+1. Integrated POST API created with express and mongo
+2. Gone through various docs of firebase for custom authentication
+
+**Thoughts:** learning about cloud functions of firebase and mongo
+
+**Link to work:** [Mean Video Player](https://github.com/Vino16491/meanvideoplayer).
 
 
