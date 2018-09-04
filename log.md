@@ -500,4 +500,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Mean Video Player](https://github.com/Vino16491/meanvideoplayer).
 
+### Day 51: September 5, 2018
+**Today's Progress:**
+1. Integrated API and completed tutorial project
+2. Next will be integrating sockets in this project and will add some more features
+3. Still Going through various docs of firebase for custom authentication
+
+**Thoughts:** learning about cloud functions of firebase and mongo
+
+**Link to work:** [Mean Video Player](https://github.com/Vino16491/meanvideoplayer).
+
 
