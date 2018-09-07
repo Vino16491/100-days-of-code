@@ -520,3 +520,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:** [Node Firebase](https://github.com/Vino16491/NodeFirebase).
 
 
+### Day 53: September 7, 2018
+**Today's Progress:**
+1. Added Login API which generates a custom token to login firebase
+
+**Thoughts:** deep dive into cloud functions and firebase
+
+**Link to work:** [Node Firebase](https://github.com/Vino16491/NodeFirebase).
+
+
