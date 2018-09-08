@@ -520,12 +520,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:** [Node Firebase](https://github.com/Vino16491/NodeFirebase).
 
 
-### Day 53: September 7, 2018
+### Day 54: September 8, 2018
 **Today's Progress:**
-1. Added Login API which generates a custom token to login firebase
+1. Created API Interfaces for BLOG site Web App, and hosted on firebase
+2. will connect it to Mongo and Sockets
 
-**Thoughts:** deep dive into cloud functions and firebase
+**Thoughts:** going into further depth of angular ngrx
 
-**Link to work:** [Node Firebase](https://github.com/Vino16491/NodeFirebase).
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). 
 
 
