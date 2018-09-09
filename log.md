@@ -518,6 +518,15 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** deep dive into cloud functions and firebase
 
 **Link to work:** [Node Firebase](https://github.com/Vino16491/NodeFirebase).
+	
+    
+### Day 53: September 7, 2018
+**Today's Progress:**
+1. Added Login API which generates a custom token to login firebase
+
+**Thoughts:** deep dive into cloud functions and firebase
+
+**Link to work:** [Node Firebase](https://github.com/Vino16491/NodeFirebase).
 
 
 ### Day 54: September 8, 2018
@@ -526,6 +535,17 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 2. will connect it to Mongo and Sockets
 
 **Thoughts:** going into further depth of angular ngrx
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). 
+
+
+
+### Day 55: September 9, 2018
+**Today's Progress:**
+1. Updated API Interfaces with mongoDB connection and hosted on firebase cloud functions
+2. Next will use socket for realtime updates
+
+**Thoughts:** going into further depth of angular ngrx and mongodb socket
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). 
 
