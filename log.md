@@ -551,7 +551,9 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 ### Day 56: September 10, 2018
 **Today's Progress:**
-1. Implementing ngrx in the project for authState
+1. Configured Firebase
+2. Successful implementation of ngrx on auth state
+
 
 **Thoughts:** angular ngrx and mongodb socket
 
