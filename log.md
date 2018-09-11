@@ -560,3 +560,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite). 
 
 
+### Day 57: September 11, 2018
+**Today's Progress:**
+1. Working on csv to json conversion using js
+
+
+**Thoughts:** taken a break from angular for a day, working on plain js for csv to json conversion
+
+**Link to work:** [csv2json](https://github.com/Vino16491/csv2json). 
+
+
