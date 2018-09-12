@@ -569,4 +569,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [csv2json](https://github.com/Vino16491/csv2json). 
 
+### Day 58: September 12, 2018
+**Today's Progress:**
+1. Basic csv to json api created and hosted on heroku
+
+**Thoughts:** taken a break from angular for a day, working on plain js for csv to json conversion
+
+**Link to work:** [Git link csv2json](https://github.com/Vino16491/csv2json). [live link](https://csvjsonapi.herokuapp.com/) 
+
+
 
