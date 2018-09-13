@@ -578,4 +578,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:** [Git link csv2json](https://github.com/Vino16491/csv2json). [live link](https://csvjsonapi.herokuapp.com/) 
 
 
+### Day 59: September 13, 2018
+**Today's Progress:**
+1. created api for password reset in NodeFirebase Project
+2. started learning socket, going through some socket tutorial
 
+**Thoughts:** learning and integrating socket with express and mongodb
+
+**Link to work:**  [Node Firebase](https://github.com/Vino16491/NodeFirebase).
