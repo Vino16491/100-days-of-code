@@ -586,3 +586,9 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts:** learning and integrating socket with express and mongodb
 
 **Link to work:**  [Node Firebase](https://github.com/Vino16491/NodeFirebase).
+
+### Day 60: September 14, 2018
+**Today's Progress:**
+1. Done Some test with socket app, but all failed
+
+**Link to work:**  [learnSocket](https://github.com/Vino16491/learnSocket).
