@@ -592,3 +592,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 1. Done Some test with socket app, but all failed
 
 **Link to work:**  [learnSocket](https://github.com/Vino16491/learnSocket).
+
+
+### Day 61: September 15, 2018
+**Today's Progress:**
+1. Socket test were successfull
+
+**Thougths:** Learn about the basic functionality of socket, soon will create a app with socket and other web tech
+
+**Link to work:**  [learnSocket](https://github.com/Vino16491/learnSocket).
+
