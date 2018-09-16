@@ -602,3 +602,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:**  [learnSocket](https://github.com/Vino16491/learnSocket).
 
+### Day 62: September 16, 2018
+**Today's Progress:**
+1. Creating API using Socket, Mongo, Express and Node for realtime updates
+2. Basic setup with express done, now have to integrate with sockets
+
+**Thougths:** Creating API with socket first as it is major part for development
+
+**Link to work:**  [RealtimeAPI](https://github.com/Vino16491/RealtimeAPI).
+
