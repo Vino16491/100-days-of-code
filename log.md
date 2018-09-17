@@ -611,3 +611,9 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:**  [RealtimeAPI](https://github.com/Vino16491/RealtimeAPI).
 
+### Day 63: September 17, 2018
+**Today's Progress:**
+1. Today trying something new- MO.js to create some animation
+
+**Link to work:**  [Mo.JS Learning](https://github.com/Vino16491/Mo.js_Learning).
+
