@@ -611,9 +611,21 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:**  [RealtimeAPI](https://github.com/Vino16491/RealtimeAPI).
 
+
+
 ### Day 63: September 17, 2018
 **Today's Progress:**
 1. Today trying something new- MO.js to create some animation
 
 **Link to work:**  [Mo.JS Learning](https://github.com/Vino16491/Mo.js_Learning).
+
+
+### Day 64: September 18, 2018
+**Today's Progress:**
+1. Successfull in saving data to mongoDB recd from socket request
+2. able to send realtime updates of stored data to user
+
+**Thougths:** need to plan a proper design for sending updates using socket
+
+**Link to work:**  [RealtimeAPI](https://github.com/Vino16491/RealtimeAPI).
 
