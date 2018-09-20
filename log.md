@@ -638,3 +638,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:**  [RealtimeAPI](https://github.com/Vino16491/RealtimeAPI).
 
+### Day 66: September 20, 2018
+**Today's Progress:**
+1. basic app for performance report is in progress
+2. created a basic chart using c3js and values from mongo using socket
+
+**Thougths:** learning more about app architecture using sockets
+
+**Link to work:**  [RealtimeAPI](https://github.com/Vino16491/RealtimeAPI).
+
