@@ -647,3 +647,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:**  [RealtimeAPI](https://github.com/Vino16491/RealtimeAPI).
 
+
+### Day 67: September 21, 2018
+**Today's Progress:**
+1. Able to create performance chart with realtime update using mongodb and socket
+
+**Thougths:** Have to understand mongodb in depth and socket to make it work like realtime database
+
+**Link to work:**  [RealtimeAPI](https://github.com/Vino16491/RealtimeAPI).
+
+
