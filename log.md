@@ -657,3 +657,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:**  [RealtimeAPI](https://github.com/Vino16491/RealtimeAPI).
 
 
+### Day 68: September 22, 2018
+**Today's Progress:**
+1. Back to Blog Site development
+2. Working on UI
+
+**Thougths:** Have learn various things on development in last 2 months and more, now will try to implement all those learning on this blog site project 
+
+**Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
