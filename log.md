@@ -666,3 +666,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+### Day 69: September 23, 2018
+**Today's Progress:**
+1. researching and testing some ui patterns for main page
+
+**Thougths:** research on theme based UI with css
+
+**Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
