@@ -674,3 +674,9 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+### Day 70: September 24, 2018
+**Today's Progress:**
+1. Setting some pattern for blog view
+
+**Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
