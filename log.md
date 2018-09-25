@@ -680,3 +680,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+### Day 71: September 25, 2018
+**Today's Progress:**
+1. Done sketch work of site, also updated css for blog page
+2. Failed in implementing sticky part, will fixup that soon
+
+**Thougths:** in search of opensource text editors which can be embedded in site
+
+**Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
