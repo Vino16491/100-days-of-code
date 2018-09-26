@@ -688,3 +688,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thougths:** in search of opensource text editors which can be embedded in site
 
 **Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+### Day 72: September 26, 2018
+**Today's Progress:**
+1. Created API for login using mongo as db and used jwt token
+
+**Thougths:** in search of opensource text editors which can be embedded in site
+
+**Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
