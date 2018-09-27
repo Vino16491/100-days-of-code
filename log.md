@@ -696,3 +696,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thougths:** in search of opensource text editors which can be embedded in site
 
 **Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+### Day 73: Sept 27, 2018
+**Today's Progress:**
+1. Created Signup API with Express, Mongo
+2. Tested Login API and SignUp API with Postman
+3. Fixed css for editor
+**Thougths:** creating simple text-editor will be better than using multiple heavy text editors for website
+
+**Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
