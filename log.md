@@ -705,3 +705,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thougths:** creating simple text-editor will be better than using multiple heavy text editors for website
 
 **Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+
+### Day 74: Sept 28, 2018
+**Today's Progress:**
+1. Integrated addblog story api and successfully tested
+2. Module added for reading blogs
+3. gone through some articles to create simple text editor
+
+**Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
