@@ -715,3 +715,9 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+### Day 75: Sept 29, 2018
+**Today's Progress:**
+1. tested noty package for toast messages
+
+**Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
