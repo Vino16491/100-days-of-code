@@ -721,3 +721,16 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+
+### Day 76: Sept 30, 2018
+**Today's Progress:**
+1. Testing Noty with mo-js failed, 
+2. Simple JS noty testing failed,
+3. Only UI with metro theme worked successfully
+
+**Thoughts**: Need to understand noty library in detail for setting it up properly
+
+**Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+
+
