@@ -733,7 +733,7 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
 
-### Day 77: Sept 30, 2018
+### Day 77: Oct 1, 2018
 **Today's Progress:**
 1. Able to use timeout feature of noty, 
 2. But testing of other feature like close on click event, call back function, etc failed,
