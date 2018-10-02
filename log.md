@@ -741,3 +741,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts**: If noty will not work by tomorrow, than i will switch to other library for notification
 
 **Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+### Day 78: Oct 2, 2018
+**Today's Progress:**
+1. Given a break to angularblog site for a day
+2. started working on api setup using featherjs on a friend request
+
+**Thoughts**: Working on Featherjs
+
+**Link to work:**  [Angular Feather](https://github.com/Vino16491/angfeather)
