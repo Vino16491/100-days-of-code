@@ -750,3 +750,15 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts**: Working on Featherjs
 
 **Link to work:**  [Angular Feather](https://github.com/Vino16491/angfeather)
+
+
+### Day 79: Oct 3, 2018
+**Today's Progress:**
+1. removed noty package from project,
+2. using izitoast for notification
+
+**Thoughts**: Working on Featherjs
+
+**Link to work:**  [Angular Feather](https://github.com/Vino16491/angfeather)
+
+
