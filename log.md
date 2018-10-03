@@ -759,6 +759,6 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Thoughts**: Working on Featherjs
 
-**Link to work:**  [Angular Feather](https://github.com/Vino16491/angfeather)
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
 
