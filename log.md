@@ -762,3 +762,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
 
+### Day 80: Oct 4, 2018
+**Today's Progress:**
+1. izitoast implementation successful
+2. Updated api for finding blogs
+3. created method for searching blog
+
+**Thoughts**: Need little styling on blog summary page
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
