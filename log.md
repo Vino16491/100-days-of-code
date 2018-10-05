@@ -772,3 +772,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+
+### Day 81: Oct 5, 2018
+**Today's Progress:**
+1. css updated for blog card effect
+2. passed data using routing params to read blog
+
+**Thoughts**: Will be using ngrx to share data between read and summary page
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
