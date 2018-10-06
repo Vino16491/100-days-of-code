@@ -782,3 +782,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+
+### Day 82: Oct 6, 2018
+**Today's Progress:**
+1. ngrx implementing for storig and reading blogs
+
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+
