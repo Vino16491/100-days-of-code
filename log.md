@@ -798,3 +798,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts**: Will be adding some more feature to blog site
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+
+### Day 84: Oct 8, 2018
+**Today's Progress:**
+1. implemented ngx-toastr, updated all toast methods
+2. css styling udpated for add, read and view blogs
+
+**Thoughts**: Will be adding some more feature to blog site
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+
+
