@@ -808,4 +808,13 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
 
+### Day 85: Oct 9, 2018
+**Today's Progress:**
+1. CSS fixed for login, signup, home page
+2. Theme changed for application
+3. new methods created for login and signup using mongoose api
+
+**Thoughts**: Will be adding some more feature to blog site
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
 
