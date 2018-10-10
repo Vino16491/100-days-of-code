@@ -818,3 +818,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
 
+### Day 86: Oct 10, 2018
+**Today's Progress:**
+1. login and signup api using mongo test successfully
+2. Validation test at API successful
+
+**Thoughts**: Will be adding some more feature to blog site
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+
