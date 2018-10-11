@@ -827,3 +827,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
 
+### Day 87: Oct 11, 2018
+**Today's Progress:**
+1. Setting up password reset email service
+
+**Thoughts**: adding feature to blog site
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+
