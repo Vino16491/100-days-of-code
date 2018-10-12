@@ -834,4 +834,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts**: adding feature to blog site
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+### Day 88: Oct 12, 2018
+**Today's Progress:**
+1. Email service setup done at API
+2. able to send mail to user with token from api
+3. need to create password reset url 
+
+**Thoughts**: adding feature to blog site
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
