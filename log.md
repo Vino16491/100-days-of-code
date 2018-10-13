@@ -843,3 +843,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts**: adding feature to blog site
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+
+### Day 89: Oct 13, 2018
+**Today's Progress:**
+1. new password form created and setup done
+
+**Thoughts**: adding feature to blog site
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
