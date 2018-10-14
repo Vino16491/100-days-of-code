@@ -851,3 +851,10 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts**: adding feature to blog site
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+### Day 90: Oct 14, 2018
+**Today's Progress:**
+1. Password reset api test successful with POSTMAN
+2. Failed test with angular
+
+**Thoughts**: adding feature to blog site
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
