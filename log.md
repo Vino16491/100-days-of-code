@@ -858,3 +858,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Thoughts**: adding feature to blog site
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+### Day 91: Oct 15, 2018
+**Today's Progress:**
+1. email configured on successful password set
+2. deleted junk code
+
+**Thoughts**: adding ui features
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
