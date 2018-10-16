@@ -865,4 +865,15 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 2. deleted junk code
 
 **Thoughts**: adding ui features
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite).
+
+
+### Day 92: Oct 16, 2018
+**Today's Progress:**
+1. Added spinner icon on login page
+2. css udpated for sidenav
+3. menu icons update with some logical condition
+
+**Thoughts**: adding ui features
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
