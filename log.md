@@ -877,3 +877,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts**: adding ui features
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+
+### Day 93: Oct 17, 2018
+**Today's Progress:**
+1. Integrating pexels API for photos on blogs
+
+**Thoughts**: adding ui features
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+
