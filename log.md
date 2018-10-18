@@ -886,3 +886,12 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
 
+### Day 94: Oct 18, 2018
+**Today's Progress:**
+1. styling added to view images
+2. CSS bug fixed for blog card and read blog page
+3. sidenav tabs updated with auth condition
+
+**Thoughts**: adding ui features
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
