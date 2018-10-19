@@ -895,3 +895,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts**: adding ui features
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+
+### Day 95: Oct 19, 2018
+**Today's Progress:**
+1. created authdetail method for blog personalisation
+
+**Thoughts**: adding ui features
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
