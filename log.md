@@ -903,3 +903,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 **Thoughts**: adding ui features
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
 
+### Day 96: Oct 20, 2018
+**Today's Progress:**
+1. auth detail fetch and save to ngrx store
+2. api updated to provide name
+3. nav and sidenav updated to show logged in username
+
+**Thoughts**: adding ui features
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
