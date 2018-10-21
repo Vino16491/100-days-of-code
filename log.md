@@ -911,3 +911,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Thoughts**: adding ui features
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+### Day 97: Oct 21, 2018
+**Today's Progress:**
+1. taken a break from blog app today
+2. working on new project to show tables on web by uploading csv file on friend request
+
+**Thoughts**: adding ui features
+**Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
