@@ -919,3 +919,10 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Thoughts**: adding ui features
 **Link to work:** [Blog Site](https://github.com/Vino16491/AngularBlogSite)
+
+### Day 98: Oct 22, 2018
+**Today's Progress:**
+1. adding some new feature to new project on request
+
+**Thoughts**: hope the project may convert into live development :)
+**Link to work:** https://github.com/Vino16491/chartreport
