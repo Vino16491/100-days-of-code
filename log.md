@@ -926,3 +926,11 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Thoughts**: hope the project may convert into live development :)
 **Link to work:** https://github.com/Vino16491/chartreport
+
+
+### Day 99: Oct 23, 2018
+**Today's Progress:**
+1. Successfully completed mini project of displaying data on table from csv upload
+
+**Thoughts**: hope the project may convert into live development :)
+**Link to work:** [chartreport](https://github.com/Vino16491/chartreport) [livelink](https://chartreport.stackblitz.io/)
