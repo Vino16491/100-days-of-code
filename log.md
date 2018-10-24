@@ -934,3 +934,14 @@ I know somewhat about the web-frameworks and JS, but I want to master myself to 
 
 **Thoughts**: hope the project may convert into live development :)
 **Link to work:** [chartreport](https://github.com/Vino16491/chartreport) [livelink](https://chartreport.stackblitz.io/)
+
+
+### Day 100: Oct 24, 2018
+**Today's Progress:**
+1. Added toggle buttons for selecting blog type
+2. API updated for accepting blog type
+3. Added input box for custom image search
+4. Successfully completed 100DaysOfCode Challenge
+
+**Thoughts**: Feeling nice as completed 100DaysOfCode Challenge
+**Link to work:**  [Blog Site](https://github.com/Vino16491/AngularBlogSite)
